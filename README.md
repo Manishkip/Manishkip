@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @Manishkip
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
+Hi I am Manish Kumar Sahu currently a 3rd year Computer Science undergrad from Lingayas Vidyapeeth, Faridabad, haryana.
+I am interested in competitive proramming and learning through coding websites. I have earned a 4 star on hackerrank in problem solving.
+I am currently focusing n enhancing my problem solving skills and learning Data Structures and Algorithms for improving my approches to logic building and solving.
+I am looking for internships and training programs and also for collab projects.
+You can reach me on my email Id : nvsmanish@gmail.com
 <!---
 Manishkip/Manishkip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
