@@ -18,9 +18,7 @@ I am actively seeking internships, training programs, and collaboration on excit
 ### Contact
 📧 Email: nvsmanish@gmail.com
 
----
 
-Feel free to copy and paste this into your GitHub profile bio section!
 <!---
 Manishkip/Manishkip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
