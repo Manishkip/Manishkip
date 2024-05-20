@@ -1,8 +1,26 @@
-Hi I am Manish Kumar Sahu currently a 4th year Computer Science undergrad from Lingayas Vidyapeeth, Faridabad, Haryana.
-I am interested in competitive proramming and working on projects. I have earned a 4 star badge on hackerrank in problem solving.
-I am currently focusing n enhancing my problem solving skills and learning Data Structures and Algorithms for improving my approches to logic building and solving.
-I am looking for internships and training programs and also for collab projects.
-You can reach me on my email Id : nvsmanish@gmail.com
+## Manish Kumar Sahu
+
+### About Me
+I am a B.Tech graduate in Computer Science from Lingayas Vidyapeeth, Faridabad, Haryana, and currently working as a Java Developer at Aithent Technologies. I have a strong foundation in Java, SQL, React, Node, JavaScript, VBScript, and RPA. 
+
+### Skills
+- **Languages & Frameworks**: Java, SQL, JavaScript, React, Node
+- **Scripting**: VBScript
+- **Automation**: RPA
+- **Competitive Programming**: 4-star badge in problem-solving on HackerRank
+
+### Interests
+I am passionate about competitive programming and working on innovative projects. I am currently focused on enhancing my problem-solving skills and learning Data Structures and Algorithms to improve my logic-building and solution approaches.
+
+### Open for Opportunities
+I am actively seeking internships, training programs, and collaboration on exciting projects. Feel free to reach out to me for any opportunities or collaborations.
+
+### Contact
+📧 Email: nvsmanish@gmail.com
+
+---
+
+Feel free to copy and paste this into your GitHub profile bio section!
 <!---
 Manishkip/Manishkip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
