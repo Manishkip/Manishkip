@@ -7,7 +7,7 @@ I am a B.Tech graduate in Computer Science from Lingayas Vidyapeeth, Faridabad, 
 - **Languages & Frameworks**: Java, SQL, JavaScript, React, Node
 - **Scripting**: VBScript
 - **Automation**: RPA
-- **Competitive Programming**: 4-star badge in problem-solving on HackerRank
+- **Competitive Programming**: 5-star badge in problem-solving on HackerRank
 
 ### Interests
 I am passionate about competitive programming and working on innovative projects. I am currently focused on enhancing my problem-solving skills and learning Data Structures and Algorithms to improve my logic-building and solution approaches.
