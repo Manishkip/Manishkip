@@ -1,5 +1,4 @@
-(https://github.com/user-attachments/assets/80db8153-9cb3-4e80-8154-4c34b2b38e0e)
-
+Manish Kumar Sahu
 
 ### About Me
 I am a B.Tech graduate in Computer Science from Lingayas Vidyapeeth, Faridabad, Haryana, and currently working as a Java Developer at Aithent Technologies. I have a strong foundation in Java, SQL, React, Node, JavaScript, VBScript, and RPA. 
