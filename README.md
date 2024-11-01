@@ -1,4 +1,4 @@
-[image](https://github.com/user-attachments/assets/80db8153-9cb3-4e80-8154-4c34b2b38e0e)
+(https://github.com/user-attachments/assets/80db8153-9cb3-4e80-8154-4c34b2b38e0e)
 
 
 ### About Me
