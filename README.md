@@ -1,5 +1,8 @@
+
 <h1 align="center">Hi 👋, I'm Manish Kumar Sahu</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
+
+<image align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishkip&label=Profile%20views&color=0e75b6&style=flat" alt="manishkip" /> </p>
 
