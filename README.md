@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/manisjsahu" target="blank"><img src="https://img.shields.io/twitter/follow/manisjsahu?logo=twitter&style=for-the-badge" alt="manisjsahu" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Boot**
+<!-- - 🌱 I’m currently learning **Spring Boot** -->
 
 - 👨‍💻 All of my projects are available at [https://manishkip.github.io/Manishfolio/](https://manishkip.github.io/Manishfolio/)
 
