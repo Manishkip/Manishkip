@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://manishkip.github.io/Manishfolio/](https://manishkip.github.io/Manishfolio/)
 
-- 💬 Ask me about **Java, React, Node**
+- 💬 Ask me about **Java, Spring Boot, MVC**
 
 - 📫 How to reach me **nvsmanish@gmail.com**
 
